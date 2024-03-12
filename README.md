@@ -4,6 +4,8 @@
   <img src="https://github.com/Haoxin917/3DFace/blob/main/demo/demo.jpg" alt="Image" style="width: 85%;">
 </p>
 
+### More 3D face reconstructions
+Please refer to more results in [demo/](demo/)
 
 ### Citation
 Please refer to our paper to seek more information:
