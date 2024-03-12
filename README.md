@@ -10,9 +10,9 @@ Please refer to more results in [demo/](demo/)
 ### Citation
 Please refer to our paper to seek more information:
 ```bibtex
-@inproceedings{xu20243D,
+@inproceedings{xu20243d,
   title={3D Face Reconstruction Using A Spectral-Based Graph Convolution Encoder},
-  author={Xu, Haoxin and Zao, Zezheng and Cao, Yuxin and Chen, Chunyu and Ge, Hao and Liu, Ziyao},
+  author={Xu, Haoxin and Zhao, Zezheng and Cao, Yuxin and Chen, Chunyu and Ge, Hao and Liu, Ziyao},
   booktitle={The Web Conference},
   year={2024}
 }
