@@ -12,7 +12,7 @@ Please refer to our paper to seek more information:
 ```bibtex
 @inproceedings{xu20243D,
   title={3D Face Reconstruction Using A Spectral-Based Graph Convolution Encoder},
-  author={Xu, Haoxin and Zheng, Zaoze and Cao, Yunxin and Chen, Chunyu and Ge, Hao and Liu, Ziyao},
+  author={Xu, Haoxin and Zao, Zezheng and Cao, Yunxin and Chen, Chunyu and Ge, Hao and Liu, Ziyao},
   booktitle={The Web Conference},
   year={2024}
 }
